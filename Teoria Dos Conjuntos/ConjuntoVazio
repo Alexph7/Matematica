@@ -1,0 +1,23 @@
+1. O conjunto vazio é o conjunto que não possui nenhum elemento.
+
+2. Representação: 'A=∅  ou  A={}'
+
+3.' A = { todo número igual a 1 e diferente de 1 ao mesmo tempo} //também é conjunto vazio'
+
+4. O conjunto vazio não possui nenhum elemento. A propriedade abaixo reforça exatamente isso.
+'Propriedade' = Seja 'S' qualquer coisa. Então "S ∉ ∅" .
+  
+5.  O vazio é subconjunto de qualquer conjunto
+Seja 'A={1,2,3}, B={□,∘,⋆} 'e 'C um conjunto qualquer.'
+
+    ∅ ⊂ A
+    ∅ ⊂ B
+    ∅ ⊂ C.
+'Importante' Cuidado para não confundir, '∅' é sempre um 'subconjunto', mas não é um 'elemento'. Ou seja, para os conjuntos A, B e C acima, as afirmações abaixo são todas falsas:
+    ∅ ∈ A  //Falsa
+    ∅ ∈ B  //Falsa
+    ∅ ∈ C. //Falsa
+      
+6.  Conjunto vazio não pode estar contido em nenhum conjunto que possui elementos.
+     exemplo: 'S= {1,2,3,4}'
+    '∅ ∉ S' Para Pertecer Ele Tinha Que Estar Visivel Entre As Chaves.
