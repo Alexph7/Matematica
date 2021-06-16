@@ -18,6 +18,3 @@ Seja 'A={1,2,3}, B={□,∘,⋆} 'e 'C um conjunto qualquer.'
     ∅ ∈ B  //Falsa
     ∅ ∈ C. //Falsa
       
-6.  Conjunto vazio não pode estar contido em nenhum conjunto que possui elementos.
-     exemplo: 'S= {1,2,3,4}'
-    '∅ ∉ S' Para Pertecer Ele Tinha Que Estar Visivel Entre As Chaves.
