@@ -1,10 +1,8 @@
-A união é uma operação que fazemos com dois conjuntos.
-
-    Ela consiste em juntar, unir, ou fundir todos os elementos de dois conjuntos em um novo conjunto.
-
-        Para entender melhor, considere dois conjuntos A e B. Veja como vamos definir e indicar o conjunto união de A com B:
+    Ela consiste em "juntar", "unir", ou "fundir" todos os elementos de dois conjuntos em um novo conjunto.
 
 (Definição) A união de A e B é o conjunto 
+
     A∪B={x|x∈A ou x∈B}
-          Em outras palavras, o conjunto união é formado pelos elementos que estão em A ou estão em B. Ainda, se algum elemento está em pelo menos um dos conjuntos, ele está na união.
+
+O conjunto união é formado pelos elementos que estão em A "ou" estão em B. Ainda, se algum elemento está em pelo menos um dos conjuntos, ele está na união.
 
