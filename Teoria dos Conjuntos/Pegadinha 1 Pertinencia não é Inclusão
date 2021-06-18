@@ -1,0 +1,22 @@
+Uma Das Coisas Que Mais Confude Quem Está Aprendendo Conjuntos é Saber Diferenciar Inclusão e Pertinência.
+
+1. "Pertinência" é entre elemento e conjunto
+                 a(Elemento) ∈ A(Conjunto)
+   "Inclusão" é entre conjuntos.
+                 B(Conjunto) ⊂ A(Conjunto)
+                 
+Considere A={a,b,c,1,2,3} , B={a,b,1,2} e C={a,b,c,1,2,3,A}.
+      Todas afirmações abaixo estão corretas:
+
+    a ∈ A
+    {a} ⊂ A
+    B ⊂ A
+    A ⊂ C
+    A ∈ C
+    
+Todas afirmações abaixo estão erradas:
+
+    a ⊂ A
+    {a} ∈ A
+    B ∈ A
+    B ∈ C
