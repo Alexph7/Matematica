@@ -1,0 +1,10 @@
+Interseccionar dois conjuntos A e B significa criar um terceiro conjunto com todos os elementos que estão no A e no B simultaneamente.
+
+Definição - Sejam A e B dois conjuntos quaisquer. A interseção de A com B é o conjunto abaixo:
+
+A∩B = {x|x∈A  e  x∈B}
+
+A = {1,2,3,4,5,6} e B = {5,6,7}, 
+então A ∩ B = {5, 6}, pois 5 e 6 são os elementos que pertencem aos dois conjuntos.
+
+Se dois conjuntos não têm nenhum elemento comum, a intersecção deles será um conjunto vazio.
