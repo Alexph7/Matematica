@@ -1,0 +1,12 @@
+Considere A um conjunto qualquer e U o conjunto universo. Todos os elementos que não estão em A estão no complementar de A. Sacou?
+
+(Definição) Conjunto Complementar. Seja A um conjunto qualquer. O conjunto A∁ definido abaixo é chamado de complementar de A:
+
+  A∁ = U–A ={ x  | x∈U  e  x∉A}
+  
+  Exemplo:
+  A={0,2,4,6,8,10,…} .
+  U = {Todos Numeros Naturais}
+  A∁= 'N'aturais − A = {1,3,5,7,9…}
+  
+  Ou seja o resultado vai ser o conjunto universo, menos os que estão no conjunto A.
