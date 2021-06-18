@@ -1,0 +1,13 @@
+(definição) Produto Cartesiano. Sejam A e B dois conjuntos quaisquer. O conjunto abaixo chama-se produto cartesiano de A com B:
+      É uma espécie de “multiplicação dos conjuntos.”
+
+AxB = {(a,b) | a∈A  e  b∈B}
+
+Exemplo:
+
+A={1,2,3} 
+B={⋆,□,∘,△}
+
+O produto cartesiano de A por B é:
+
+A×B = {(1,⋆); (1,□); (1,∘); (1△,);(2,⋆); (2,□); (2,∘); (2,△);(3,⋆); (3,□); (3,∘); (3,△)}
