@@ -1,0 +1,21 @@
+Para todas as propriedades abaixo, considere A, B e C três conjuntos quaisquer. U é o conjunto universo e ∅ é o conjunto vazio.
+
+1. Reflexiva (união)                      A ∪ A = A
+2. Reflexiva (interseção)                 A ∩ A = A
+3. Inclusão e união                       A ⊂ A ∪ B
+4. Inclusão e interseção                  A ∩ B ⊂ A
+5. Associativa (união e interseção)      (A∪B) ∪C = A∪ (B∪C)  
+                                         (A∩B) ∩C = A∩ (B∩C)
+
+6. Comutativa (união e interseção)       A∪B = B∪A
+                                         A∩B = B∩A
+
+7. Elementro neutro da união             A∪∅ = A
+Unir o A com o vazio mantém o A. Ou seja, o ∅ é como se fosse o zero da união de conjuntos. Ele não soma nada.
+
+8. Elementro neutro da interseção          A∩U = A
+    Interseccionar o A com o conjunto universo U mantém o A.
+        Ou seja, o U é como se fosse o zero da interseção de conjuntos. Ele não modifica nada.
+
+9. Conjunto vazio e interseção              A∩∅ = ∅
+
