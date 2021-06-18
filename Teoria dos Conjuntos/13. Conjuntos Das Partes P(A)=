@@ -1,0 +1,20 @@
+É um conjunto que possui todas as “partes” de um outro conjunto.
+
+(definição) Conjunto das Partes. Seja A um conjunto qualquer. 
+      O conjunto abaixo é chamado de conjunto das partes de A:
+
+P(A)={X | X é um subconjunto de A}
+
+Você deve estar atento a duas coisas:
+
+∅ sempre está no conjunto das partes, pois ∅⊂A.
+O próprio conjunto sempre está em seu conjunto das partes, pois A⊂A.
+Então tome nota:
+
+∅ ∈ P(A)
+A ∈ P(A)
+
+Exemplo:   A={a,b,c}.
+O conjunto das partes de A é o conjunto que reune todos os subconjuntos de A, incluindo o ∅ e o próprio A.
+
+P(A)={{a}; {b}; {c}; {a,b}; {a,c}; {b,c}; {a,b,c}; ∅}
