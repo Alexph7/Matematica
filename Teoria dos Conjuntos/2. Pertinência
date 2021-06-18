@@ -3,15 +3,9 @@
    Os números 1, 2 e 3 são elementos do conjunto A.
 
     ∈:pertence         ∉:não pertence.
-    Devemos utilizar na seguinte ordem:
 
 a ∈ A: 'a' está no conjunto A
 a ∉ A: 'a' não está no conjunto A.
 
       B = {−11,−6,5,19}
-      É verdadeiro que:
-
-        −11∈B e 5∈B
-        
-      E também que:
-      0∉B   e   6∉B
+      É verdadeiro que: −11∈B e 5∈B   E também que:   0∉B   e   6∉B
