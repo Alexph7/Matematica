@@ -1,0 +1,14 @@
+Um conjunto simplesmente é uma coleção de coisas. Não importam se essas “coisas” são números ou não.
+
+      Os conjuntos são Representados por letras maiúsculas, seguidos de uma expressão entre chaves que descreva seus elementos.
+  
+            Uma maneira de indicar o conjunto é listar os elementos um a um.
+
+A={1,2,3}
+
+B={Agilso,Michele,Elan,Alexandre}
+
+Também podemos representar um conjunto a partir de uma propriedade.
+
+A={números naturais menores que 3}                          A={1,2}
+A={todo número par e não negativo}                          A={0,2,4,6,…}
