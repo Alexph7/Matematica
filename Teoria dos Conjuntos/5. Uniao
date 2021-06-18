@@ -6,6 +6,3 @@
 
 O conjunto união é formado pelos elementos que estão em A "ou" estão em B. Ainda, se algum elemento está em 'pelo menos um dos conjuntos', ele está na união.
 
-PROPRIEDADES
-Se b é um elemento qualquer, então b ∈ U.
-Se B é um conjunto qualquer, então B ⊂ U.
