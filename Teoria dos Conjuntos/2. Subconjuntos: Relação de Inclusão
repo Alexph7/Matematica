@@ -1,0 +1,9 @@
+Um conjunto pode ter vários subconjuntos.
+
+Connjunto A={1,2,3,4,5}
+
+O Conjunto  B={1,2,3}  é um subconjunto de A. Dizemos isso porque todo elemento de B também pertence ao conjunto A.
+
+Conjunto C={2,4} também é um subconjunto. 
+
+(Definição) Um subconjunto de A é qualquer outro conjunto em que "TODOS" os seus elementos também pertencem a A.
