@@ -1,0 +1,7 @@
+Seja A={1,2,3}, B={□,∘,⋆} e C um conjunto qualquer.
+
+Tome cuidado para não confundir, ∅ é sempre um subconjunto, mas não é um elemento. Ou seja, para os conjuntos A, B e C acima, as afirmações abaixo são todas falsas:
+
+    ∅ ∈ A
+    ∅ ∈ B
+    ∅ ∈ C.
