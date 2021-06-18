@@ -6,3 +6,9 @@
 
 O conjunto união é formado pelos elementos que estão em A "ou" estão em B. Ainda, se algum elemento está em 'pelo menos um dos conjuntos', ele está na união.
 
+    A = {0,4,6,9}
+    B = {2,4,5,6,7}
+
+O conjunto A∪B será formado pela junção de seus elementos:
+
+   A∪B = {0,2,4,5,6,7,9}
