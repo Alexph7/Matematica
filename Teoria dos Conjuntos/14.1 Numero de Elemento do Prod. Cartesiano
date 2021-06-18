@@ -1,0 +1,11 @@
+(propriedade) Se o número de elementos de A é 'm' e de B é 'n', então:
+
+#A × B = m x n
+
+Ou seja, o número de elementos no produto cartesiano é simplesmente a multiplicação do número de elementos nos conjuntos envolvidos.
+
+Exemplo. A={1,2,3} e B={⋆,□,∘,△}:
+
+#A=3
+#B=4
+#A×B = 3x4 = 12
