@@ -1,0 +1,21 @@
+Para saber a quantidade de elementos do conjunto das partes e, saber a quantidade de subconjuntos de um conjunto qualquer, utilizamos a seguinte fórmula:
+
+Seja A um conjunto qualquer, então:
+      O número de elementos do conjunto das partes de
+      
+      n[P(B)] = 2n
+      | | |     | 
+      | | |     |____________________        
+      | | |______________            |       
+      | |_________      |            |
+    numero       |      |            |
+      de       Partes   |      2 elevado a 'n' que são o numero de elementos que está no conjunto
+   elementos         Conjunto
+   
+   
+Exemplo:
+
+A = {1, 2, 3}; então: n[P(A)] = 2³ = 8
+Pelo exemplo anterior, percebemos que o conjunto das partes para o conjunto A tem exatamente 8 elementos.
+----------- Se Um Conjunto tem 3 Partes entao o expoente sera o 3 assim: A = 2 "3 como expoente"           = 2*2*2 = 8
+----------- Se tiver 5 parte entao o expoente será o mesmo numero das parte assim: A= 2 "5 como expoente"  = 2*2*2*2*2 = 32
