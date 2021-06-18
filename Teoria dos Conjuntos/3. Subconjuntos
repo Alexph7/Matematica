@@ -5,9 +5,9 @@
 
 Conjunto A={1,2,3,4,5}
 
-O Conjunto  B={1,2,3}  é um subconjunto de A.
+B={1,2,3}  é um subconjunto de A.
 
-Conjunto C={2,4} também é um subconjunto. 
+C={2,4} também é um subconjunto. 
 
 B ⊂ A : “B está contido em A”
 C ⊂ A: “C está contido em A”
