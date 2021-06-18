@@ -1,0 +1,13 @@
+  A = ∅  ou  A = {}
+
+PROPRIEDADE
+1. Conjunto Vazio Não Possui Nada.
+Seja 'b' qualquer coisa. Então b ∉ ∅.
+
+2. o vazio é subconjunto de qualquer conjunto.
+A={1,2,3} , B={□,∘,⋆} e C um conjunto qualquer. Então
+
+∅ ⊂ A
+∅ ⊂ B
+∅ ⊂ C.
+
