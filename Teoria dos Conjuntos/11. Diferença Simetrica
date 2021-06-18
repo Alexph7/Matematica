@@ -1,0 +1,14 @@
+DICA: “Une e arranca a interseção.”
+
+(definição) Diferença Simétrica. Sejam A e B dois conjuntos. O conjunto abaixo é a diferença simétrica de A por B:
+
+A△B = (A∪B)−(A∩B)
+
+Exemplo:
+
+A={2,4,6,8,10,12,14}
+B={1,2,3,4,5,6,7,8,9,10}.
+
+A△B = (A∪B)−(A∩B)
+A△B = {1,2,3,4,5,6,7,8,9,10,12,14}(uniao) − {2,4,6,8,10}(intersecção)
+A△B = {1,3,5,7,9,12,14}
