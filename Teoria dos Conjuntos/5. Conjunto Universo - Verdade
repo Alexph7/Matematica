@@ -1,1 +1,13 @@
+O conjunto universo, denotado comumente por U, possui todos elementos.
+o conjunto universo U pode mudar de acordo com o contexto da situação em que estivermos trabalhando.
 
+Contexto	                                                 U
+Futebol no Brasil	                                      U={ “Todos os times Brasileiros” }
+Katy Perry, Rihanna, Demi Lovato, etc	                  U={ “Todas cantoras Internacionais” }
+Federer, Nadal, Andre Agassi, Guga, etc               	U={ “Todos jogadores de tênis” }
+Adição, subtração, etc	                                U={ “Todas operações matemáticas” }
+
+
+    PROPRIEDADES
+    Se b é um elemento qualquer, então b ∈ U.
+    Se B é um conjunto qualquer, então B ⊂ U.
