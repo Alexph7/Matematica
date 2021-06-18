@@ -1,0 +1,13 @@
+interseção da seguinte maneira:
+    A∩B = {x | x∈A  'e'  x∈B}.
+    
+define união como:
+    A∪B = {x | x∈A  'ou'  x∈B}.
+    
+A única diferença entre as definições é a presença do “e” e do “ou”.
+
+O “e” serve para conectar duas afirmações tem sentido de simultaneamente, as duas afirmações devem ocorrer ao mesmo tempo.
+      Então, dizer que x∈A “e” x∈B é dizer que o x está tanto no A quanto no B ao mesmo tempo.
+
+O “ou” serve para conectar duas afirmações, significa que pelo menos uma das afirmações ocorre.
+      Então, dizer que x∈A “ou” x∈B é dizer que pelo menos uma dessas é verdadeira:
